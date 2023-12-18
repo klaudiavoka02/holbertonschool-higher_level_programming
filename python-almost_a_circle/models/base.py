@@ -99,4 +99,4 @@ This docstring describes the Base class.
             instances_list = [
                 cls.create(**dictionary) for dictionary in dictionaries_list
             ]
-        return instances_list
+    return instances_list
