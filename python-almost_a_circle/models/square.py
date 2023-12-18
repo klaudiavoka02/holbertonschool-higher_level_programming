@@ -57,4 +57,3 @@ Square class inherits from Rectangle.
             'x': self.x,
             'y': self.y
         }
-        

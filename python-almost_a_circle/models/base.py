@@ -101,4 +101,3 @@ This docstring describes the Base class.
             ]
 
         return instances_list
-        

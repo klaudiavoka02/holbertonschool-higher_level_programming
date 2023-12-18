@@ -155,4 +155,3 @@ Rectangle class inherits from Base.
             'x': self.__x,
             'y': self.__y
         }
-        
